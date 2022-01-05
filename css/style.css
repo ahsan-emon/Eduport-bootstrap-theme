@@ -1,0 +1,106 @@
+.logo {
+  width: 150px;
+}
+.category {
+  list-style: none;
+}
+.category-btn {
+  background-color: #e4eff8;
+}
+.search-icon {
+  top: 50%;
+  right: 80px;
+  transform: translate(-0%, -50%);
+}
+.profile {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: #74b9ff;
+}
+.header-btn {
+  background-color: rgba(214, 41, 62, 0.1);
+  color: #d6293e;
+  padding: 15px 25px;
+  transition-duration: 0.5s;
+  border-radius: 5px;
+  font-size: 18px;
+}
+.header-btn:hover {
+  background-color: #d6293e;
+  color: #fff;
+  transition-duration: 1s;
+}
+.circle1 {
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  background-color: #066ac9;
+}
+.circle2 {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background-color: #9bc3e9;
+  cursor: pointer;
+}
+.profile-bg {
+  background-color: #066ac9;
+  border-radius: 50%;
+}
+.upper-profile {
+  background-image: url("../images/profile-upper-bg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #11bc86;
+  border-radius: 15px;
+  height: 125px;
+  top: 90px;
+  right: -15px;
+}
+.student-img {
+  object-fit: cover;
+  width: 50px;
+  height: 50px;
+}
+.student-inner-circle {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  overflow: hidden;
+  border: 3px solid #fff;
+  position: absolute;
+}
+.student-position1 {
+  bottom: 18px;
+  left: 35px;
+}
+.student-position2 {
+  bottom: 18px;
+  left: 75px;
+}
+.student-position3 {
+  bottom: 18px;
+  right: 75px;
+}
+.student-position4 {
+  bottom: 18px;
+  right: 35px;
+}
+.message-box {
+  width: 300px;
+  height: 90px;
+  border: 1.5px solid #fff;
+  border-radius: 10px;
+  backdrop-filter: blur(5px);
+  bottom: 80px;
+  left: 55px;
+}
+.message-circle {
+  width: 55px;
+  height: 55px;
+  border-radius: 50%;
+}
+.congratulation-ok {
+  color: #0cbc87;
+}
