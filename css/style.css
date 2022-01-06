@@ -104,3 +104,35 @@
 .congratulation-ok {
   color: #0cbc87;
 }
+.icon1 {
+  font-size: 50px;
+  color: #f7c32e;
+}
+.icon2 {
+  font-size: 50px;
+  color: #1d3b53;
+}
+.icon3 {
+  font-size: 50px;
+  color: #6f42c1;
+}
+.icon4 {
+  font-size: 50px;
+  color: #17a2b8;
+}
+.tv {
+  background: #fef6e0;
+  border-radius: 8px;
+}
+.user {
+  background: #e8ebed;
+  border-radius: 8px;
+}
+.graduate-user {
+  background-color: #f0ecf9;
+  border-radius: 8px;
+}
+.ok {
+  background-color: #e7f6f8;
+  border-radius: 8px;
+}
