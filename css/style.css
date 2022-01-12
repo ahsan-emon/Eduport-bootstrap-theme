@@ -1,3 +1,6 @@
+body {
+  font-family: sans-serif;
+}
 .logo {
   width: 150px;
 }
@@ -135,4 +138,86 @@
 .ok {
   background-color: #e7f6f8;
   border-radius: 8px;
+}
+/* courses style start  */
+.courses {
+  background: #e6f0f9;
+  border-radius: 8px;
+}
+.course-btn {
+  color: #066ac9;
+  transition: 0.4s all ease-in-out;
+}
+.course-btn:hover {
+  color: #fff;
+  background: #066ac9;
+}
+.all-level {
+  background: #f0ecf9;
+  color: #8d69ce;
+  font-size: 14px;
+  padding: 2px 10px;
+  border-radius: 5px;
+}
+.beginner {
+  background: #e6f8f3;
+  color: #29c495;
+  font-size: 14px;
+  padding: 2px 10px;
+  border-radius: 5px;
+}
+.course-card h5 {
+  font-size: 20px;
+  color: #24292d;
+  font-weight: 600;
+}
+.course-card p {
+  font-size: 15px;
+  color: #747579;
+}
+.rating i {
+  font-size: 15px;
+  color: #f7c32e;
+}
+.rating span {
+  font-size: 15px;
+  font-weight: 500;
+  margin-left: 5px;
+}
+.card-footer {
+  color: #24292d;
+  font-size: 15px;
+}
+.fa-clock {
+  color: #dc495b;
+}
+.fa-calendar-alt {
+  color: #fd7e14;
+}
+.fill-heart {
+  color: #d6293e;
+}
+.card-title-effect {
+  transition: 0.4s all ease-in-out;
+}
+.card-title-effect:hover {
+  color: #066ac9;
+  cursor: pointer;
+}
+/* instructor style start  */
+.instructor {
+  background-color: #17a2b8;
+  border-radius: 8px;
+}
+.instructor-btn {
+  color: #f7c32e;
+  border-color: #f7c32e;
+  padding: 10px 20px;
+  font-weight: 500;
+  transition: 0.4s all ease-in-out;
+}
+.instructor-btn:hover {
+  color: #000;
+  background-color: #f7c32e;
+  border-color: #f7c32e;
 }
